@@ -283,7 +283,7 @@ class Node(nodeNo: Int, boss: ActorRef) extends Actor {
       boss ! finishGossipRound(this.nodeNo)
     case pushSum(s: Double, w: Double) =>
       //println("Node " + this.nodeNo + " receive with ratio " + this.ratio + " origin equalround " + this.equalRound +" from node " + sender().path.name)
-      //println("Node " + this.nodeNo + " receive s " + s + " w " + w + " from " + sender().path.name)
+      println("Node " + this.nodeNo + " receive s " + s + " w " + w + " from " + sender().path.name)
       if (this.rumorsNum == 0) {
         this.rumorsNum = 1
         boss ! addActiveNode(this.nodeNo)

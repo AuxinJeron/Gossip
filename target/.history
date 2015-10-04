@@ -109,3 +109,6 @@ run 100 full push-sum
 run 100 3D push-sum
 run 100 line push-sum
 run 100 imp3D push-sum
+run 10 3D push-sum
+run 100 3D push-sum
+run 1000 3D push-sum
