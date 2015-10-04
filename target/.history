@@ -1,0 +1,111 @@
+compile
+run 1
+run 10 full gossip
+run 100 full gossip
+run 10 full gossip
+run 10 gossip
+run 10 full gossip
+run 5 full gossip
+run 10 full gossip
+clear
+sbt run 10 full gossip
+run 10 full gossip
+compile
+run 10 full gossip
+compile
+run 10 full gossip
+clear
+compile
+run 10 full gossip
+run 100 full gossip
+run 10 full gossip
+compile
+run 10 full gossip
+compile
+run 10 full gossip
+compile
+run 10 full gossip
+compile
+run 10 full gossip
+clear
+run compile
+run 10 full gossip
+sbt run 10 full gossip
+run 10 full gossip
+run compile
+run 10 full gossip
+run 100 gossip full
+run 100 full gossip
+run compile
+run 100 full gossip
+run 1000 full gossip
+run 100 full gossip
+run 100 2D gossip
+run 100 3D gossip
+run 10 3D gossip
+run 10 line gossip
+l
+run 10 line gossip
+run 10 3D gossip
+run 10 imp3D gossip
+run 100 imp3D gossip
+run 10 full push-sum
+compile
+run 10 full push-usm
+run 10 full push-sum
+clear
+run 10 full push-sum
+sclear
+run 10 full push-sum
+sclear
+run 10 full push-sum
+run 10 3D push-sum
+run 10 imp3D push-sum
+run 100 full gossip
+run 100 full pushsum
+run 100 line push-sum
+run 100 full push-sum
+run 10 line push-sum
+run 10 full push-sum
+run line full push-sum
+run 100 3D push-sum
+run 100 line push-sum
+run 100 imp3D push-sum
+run 100 imp3D gossip
+run 100 line gossip
+run 100 3D gossip
+run 100 3D push-sum
+run 10 full push-sum
+run 10 full gossip
+run 10 full push-sum
+run 5 full push-sum
+run 10 full push-sum
+run 3 full push-sum
+run 2 full push-sum
+run 3 full push-sum
+run 5 full push-sum
+run 2 full push-sum
+run 3 full push-sum
+run 10 full push-sum
+run 10 line push-sum
+run 10 line gossip
+run 10 line push-sum
+run 10 3D push-sum
+run 3 line push-sum
+run 10 line push-sum
+run 2 line push-sum
+run 3 line push-sum
+run 2 line push-sum
+run 2 line push-su
+run 2 line push-sum
+run 10 line push-sum
+run 10 full push-sum
+run 10 line push-sum
+run 10 3D push-sum
+run 10 line push-sum
+run 3 line push-sum
+run 100 line push-sum
+run 100 full push-sum
+run 100 3D push-sum
+run 100 line push-sum
+run 100 imp3D push-sum
