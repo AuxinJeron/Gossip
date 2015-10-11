@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69256335-0224-431d-b14a-ef7042eab1e4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/gossip2bonus.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BigBoss$$anonfun$receive$1$$anonfun$applyOrElse$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/BigBoss$$anonfun$receive$1$$anonfun$applyOrElse$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Node$$anonfun$receive$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/Node$$anonfun$receive$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/gossip.scala" afterPath="$PROJECT_DIR$/src/main/scala/gossip.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Gossip.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,13 +50,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gossip.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gossip.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/gossip.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23133236">
-              <caret line="285" column="6" selection-start-line="285" selection-start-column="6" selection-end-line="285" selection-end-column="6" />
+            <state vertical-scroll-proportion="148.59259">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding>
                 <element signature="e#40#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gossip2bonus.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/gossip2bonus.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5080527">
+              <caret line="257" column="14" selection-start-line="257" selection-start-column="14" selection-end-line="257" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#67#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -77,6 +100,7 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
         <option value="$PROJECT_DIR$/src/main/scala/gossip.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/gossip2bonus.scala" />
       </list>
     </option>
   </component>
@@ -184,6 +208,32 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gossip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gossip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gossip.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -607,13 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3328767">
           <caret line="134" column="44" selection-start-line="134" selection-start-column="39" selection-end-line="134" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -650,20 +693,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/gossip.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23133236">
-          <caret line="285" column="6" selection-start-line="285" selection-start-column="6" selection-end-line="285" selection-end-column="6" />
+        <state vertical-scroll-proportion="148.59259">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding>
             <element signature="e#40#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/gossip2bonus.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5080527">
+          <caret line="257" column="14" selection-start-line="257" selection-start-column="14" selection-end-line="257" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
