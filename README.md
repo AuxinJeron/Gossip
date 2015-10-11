@@ -1,3 +1,3 @@
-//leon
+leon
 # Gossip
 Gossip for akka
